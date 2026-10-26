@@ -7,7 +7,7 @@
 - Python
 - OpenAI API (function calling)
 - Supabase (`supabase-py`)
-- 키와 설정은 `.env.local`에서 읽는다 (`OPENAI_API_KEY`, `OPENAI_MODEL`, `SUPABASE_URL`, `SUPABASE_KEY`, `MAX_STEPS`). 코드나 로그에 키를 쓰지 않는다.
+- 키와 설정은 `.env`에서 읽는다 (`OPENAI_API_KEY`, `OPENAI_MODEL`, `SUPABASE_URL`, `SUPABASE_KEY`, `MAX_STEPS`). 코드나 로그에 키를 쓰지 않는다.
 
 ## 폴더 구조
 
